@@ -1,6 +1,7 @@
 Hier die Software-Installationsdateien einfügen. Lizenzbedinungen nicht ignorieren!
 
 
+
 - - - - - Kopiervorlage - - - - -
 Name:
 Version:
@@ -8,7 +9,6 @@ Hersteller-Link:
 Download-Link:
 Quellcode:
 - - - - -
-
 Name: GPG-Suite
 Version: 2013.07.27
 Hersteller-Link: https://gpgtools.org/

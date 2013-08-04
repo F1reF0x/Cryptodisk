@@ -1,13 +1,12 @@
 Hier die Software-Installationsdateien einfügen. Lizenzbedinungen nicht ignorieren!
 
 - - - - - Kopiervorlage - - - - -
-Name:
-Version:
-Hersteller-Link:
+Name: 
+Version: 
+Hersteller-Link: 
 Download-Link:
 Lizenz:
-- - - - -
-
+- - - - - 
 
 
 Name: GPG4Win

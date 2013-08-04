@@ -50,14 +50,8 @@ Download-Link: http://www.truecrypt.org/downloads
 Lizenz: eigene Truecrypt-Lizenz http://www.truecrypt.org/legal/license
 Quellcode: http://www.truecrypt.org/downloads2
 
-
 Name: Tails
 Version: 0.19
 Hersteller-Link: https://tails.boum.org
 Download-Link: https://tails.boum.org/download/index.de.html
-<<<<<<< HEAD
 Lizenz: GPL https://tails.boum.org/doc/about/license/index.de.html
-=======
-Lizenz: GPL https://tails.boum.org/doc/about/license/index.de.html
-
->>>>>>> e7b503de944628fa2e97420cdc42620a835a09a2

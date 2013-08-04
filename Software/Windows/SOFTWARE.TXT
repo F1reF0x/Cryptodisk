@@ -8,7 +8,6 @@ Download-Link:
 Lizenz:
 - - - - - 
 
-
 Name: GPG4Win
 Version: 2.1.1
 Hersteller-Link: http://www.gpg4win.de

@@ -1,7 +1,5 @@
 Hier die Software-Installationsdateien einfügen. Lizenzbedinungen nicht ignorieren!
 
-
-
 - - - - - Kopiervorlage - - - - -
 Name:
 Version:
@@ -9,6 +7,7 @@ Hersteller-Link:
 Download-Link:
 Quellcode:
 - - - - -
+
 Name: GPG-Suite
 Version: 2013.07.27
 Hersteller-Link: https://gpgtools.org/
@@ -56,4 +55,9 @@ Name: Tails
 Version: 0.19
 Hersteller-Link: https://tails.boum.org
 Download-Link: https://tails.boum.org/download/index.de.html
+<<<<<<< HEAD
 Lizenz: GPL https://tails.boum.org/doc/about/license/index.de.html
+=======
+Lizenz: GPL https://tails.boum.org/doc/about/license/index.de.html
+
+>>>>>>> e7b503de944628fa2e97420cdc42620a835a09a2

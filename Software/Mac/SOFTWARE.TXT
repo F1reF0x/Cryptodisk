@@ -9,9 +9,9 @@ Quellcode:
 - - - - -
 
 Name: GPG-Suite
-Version: 2013.07.27
+Version: 2013.08.06
 Hersteller-Link: https://gpgtools.org/
-Download-Link: https://s3.amazonaws.com/gpgtools/GPG%20Suite%20-%202013.07.27.dmg
+Download-Link: https://s3.amazonaws.com/gpgtools/GPG%20Suite%20-%202013.08.06.dmg
 Lizenz: GPL
 Quellcode: https://github.com/GPGTools/GPGTools/archive/master.zip
 
@@ -23,11 +23,11 @@ Lizenz: GNU General Public License version 2.0 (GPLv2)
 Quellcode: https://www.keepassx.org/downloads/
 
 Name: Thunderbird
-Version: 17.0.7
+Version: 17.0.8
 Hersteller-Link: http://www.mozilla.org/de/thunderbird/
-Download-Link: https://download.mozilla.org/?product=thunderbird-17.0.7&os=osx&lang=de
+Download-Link: https://download.mozilla.org/?product=thunderbird-17.0.8&os=osx&lang=de
 Lizenz: MPL2 http://www.mozilla.org/MPL/2.0/
-Quellcode: http://ftp.mozilla.org/pub/mozilla.org/thunderbird/releases/17.0.7/source/thunderbird-17.0.7.source.tar.bz2
+Quellcode: http://ftp.mozilla.org/pub/mozilla.org/thunderbird/releases/17.0.8/source/thunderbird-17.0.7.source.tar.bz2
 
 Name: Enigmail
 Version: 1.5.2

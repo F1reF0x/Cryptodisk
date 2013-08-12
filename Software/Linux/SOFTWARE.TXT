@@ -1,11 +1,43 @@
-Unter Linux verwendet man am besten die mitgelieferte Paketverwaltung.
+Unter Linux verwendet man am besten die mitgelieferte Paketverwaltung!
+Einzige Ausnahme: Truecrypt, das ist, aufgrund der verwendeten Lizenz, oft nicht verfügbar.
 
-Einzige Ausnahme: Truecrypt
+Name: KeePassX
+Version: 0.4.3
+Hersteller-Link: https://www.keepassx.org
+Download-Link: https://www.keepassx.org/downloads/
+Lizenz: GNU General Public License version 2.0 (GPLv2)
+Quellcode: https://www.keepassx.org/downloads/
 
+Name: Thunderbird
+Version: 17.0.8
+Hersteller-Link: http://www.mozilla.org/de/thunderbird/
+Download-Link: https://download.mozilla.org/?product=thunderbird-17.0.8&os=linux&lang=de
+Lizenz: MPL2 http://www.mozilla.org/MPL/2.0/
+Quellcode: http://ftp.mozilla.org/pub/mozilla.org/thunderbird/releases/17.0.8/source/thunderbird-17.0.8.source.tar.bz2
+
+Name: Enigmail
+Version: 1.5.2
+Hersteller-Link: http://www.enigmail.net
+Download-Link: http://www.enigmail.net/download/index.php
+Lizenz: GPL
+Quellcode: http://www.enigmail.net/download/source.php
+
+Name: TorBrowserBundle
+Version: 2.3.25-11
+Hersteller-Link: https://www.torproject.org
+Download-Link: https://www.torproject.org/download/download-easy.html.en
+Lizenz: GPL https://www.torproject.org/docs/faq.html.en#DistributingTor
+Quellcode: https://www.torproject.org/download/download.html.en
+
+Name: Truecrypt
 Version: 7.1a
 Hersteller-Link: http://www.truecrypt.org/
 Download-Link: http://www.truecrypt.org/downloads
 Lizenz: eigene Truecrypt-Lizenz http://www.truecrypt.org/legal/license
 Quellcode: http://www.truecrypt.org/downloads2
 
-
+Name: Tails
+Version: 0.20
+Hersteller-Link: https://tails.boum.org
+Download-Link: https://tails.boum.org/download/index.de.html
+Lizenz: GPL https://tails.boum.org/doc/about/license/index.de.html

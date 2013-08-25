@@ -1,7 +1,7 @@
 Hier die Software-Installationsdateien einfügen. Lizenzbedinungen nicht ignorieren!
 
 Name: GPG4Win
-Version: 2.1.1
+Version: 2.2.0
 Hersteller-Link: http://www.gpg4win.de
 Download-Link: http://www.gpg4win.de/download-de.html
 Lizenz: GPL http://www.gpg4win.de/license-de.html
